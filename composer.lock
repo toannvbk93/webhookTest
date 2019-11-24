@@ -15,5 +15,6 @@
     "platform": {
         "php": ">=5.3.2"
     },
-    "platform-dev": []
+    "platform-dev": [],
+	"license": "MIT"
 }
