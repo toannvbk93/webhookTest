@@ -1,0 +1,8 @@
+{
+  "method": ["POST", "GET"],
+  "accessUrl":{
+    "home":"/",
+    "info": "/info/",
+    "contact": "/contact/"
+  }
+}
